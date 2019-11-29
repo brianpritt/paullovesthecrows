@@ -1,0 +1,31 @@
+
+h1, .centering{
+    text-align: center;
+}
+.centering{
+    margin-top: 40px;
+}
+body{
+    background-image: url("../img/stars.gif");
+    background-repeat: repeat;
+}
+.rad{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.paulie
+{
+    width: 250px;
+    border-radius: 8px;
+    margin: 40px;
+}
+.crows{
+    width: 50%;
+    margin:40px;
+}
+.pull-left{
+    margin-top: -8px;
+    width:80px;
+}
